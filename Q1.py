@@ -1,0 +1,1 @@
+s=str(input("Enter a String :"))d=s[::-1]print("The reverse string is :", d)
